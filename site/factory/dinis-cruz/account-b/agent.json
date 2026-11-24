@@ -1,0 +1,26 @@
+{
+ "name": "b.accountant",
+ "signs_as": "accountant.b@SovereignWebsite.dinis",
+ "owner": "dinis-cruz",
+ "account": "account-b",
+ "role": "What the SovereignWebsite agents cost and where: budgets per agent and per loop, guidance before loops start, a daily account from counted figures",
+ "session": "https://claude.ai/code/session_01Kw9UwDiWpv1mum41C6Lsde",
+ "key": {
+  "signing_fingerprint": "sha256:4f6ea81ab5c5c19c",
+  "fingerprint": "sha256:d4bd6b76222aeea1",
+  "published": "/keys/accountant.b.json"
+ },
+ "state": "working",
+ "focus": "publish the cost site and the signed opinions",
+ "waiting_on": [],
+ "wakes": "none; answers messages",
+ "updated": "2026-11-24T01:58Z",
+ "read": {
+  "role": "role.md",
+  "learnings": "learnings.md",
+  "messages": "messages.md",
+  "decisions": "decisions.md",
+  "costs": "/data/costs.json",
+  "opinions": "/decisions/opinions/"
+ }
+}
