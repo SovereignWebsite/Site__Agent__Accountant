@@ -1,0 +1,5 @@
+{
+  "permissions": {
+    "allow": ["Bash(sgit pki keygen:*)", "Bash(sgit pki export:*)"]
+  }
+}
