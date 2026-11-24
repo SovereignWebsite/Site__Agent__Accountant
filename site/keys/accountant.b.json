@@ -1,0 +1,19 @@
+{
+  "agent": "accountant.b@SovereignWebsite.dinis",
+  "id": "accountant-b-sovereignwebsite",
+  "role": "Accountant of the Sovereign Agentic Website team on account B: what the agents cost and where it is spent. A session key: it ends with its session.",
+  "how": "Made by the agent in its own session on 24 November 2026 with sgit pki keygen; public bundle from sgit pki export. Only the public half is here.",
+  "created": "2026-11-24",
+  "status": "active",
+  "session": "https://claude.ai/code/session_01Kw9UwDiWpv1mum41C6Lsde",
+  "fingerprint": "sha256:d4bd6b76222aeea1",
+  "signing_fingerprint": "sha256:4f6ea81ab5c5c19c",
+  "bundle": {
+    "v": 1,
+    "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAs9RhhSnRcCW/lEnBgMms\nn3krO6vbiodfiAVAm1bpQ7YjAM3ZILXHg8BugU6MDDnyOMyTUXUiVNyrhyiNb8l0\nFyXal9jxzk+Dj0gPvVwst+rlhaTISgzgClZKv4DyNTUQWL/F8s3rijbdGufhyB1U\ntT6Gd7la4OSJ+fzRjn5/GMnpr3844IjZ82+kyFfR0H7vDtgTfQdxBNnGSfNBecBi\no10i+/edFAWCmDIlub7+pC2+RAHa3i1/9I/sx4mHDLbwxR/xRQsgxxNnzU6fHLTY\nM6xsaP6RRim2sku2/zrvZXCIBPJ0tWUSEEfIMHgjc0Trdq6Ql0N8y+m2Ys1up6OY\nHkcIRKG1+VtXj4AydsW3ZnfZ7GqMMBeg67xjGyMxBdKp6gTU9pzbKYbBfsOUrJC9\npjF6Ao6S6DllxiTb0+Rf0VveeEeHSJGsSV4EYeOPNJsd9upmThL22Lv9HH359NCo\n4Cr0iL1q6v/Wi8p/dtclA/n5rNCT3yRdTI4+SA3WyGWFDV5oVu8xzm4+zL4PwZhH\nLhWi4N2UGWmOnXRO+rEBZJfc/1q2dQ0/1PT1ddWze+83UlCkk/0d5pjhZd/wHU5D\nbbs46Q+6BLPTQ3oORFs/YhcfbEh1hrn56H5mOk+5R/nj6BSRcIwJzU1KTF8X2OHs\nrEpGvT4evI6YDr8L/PGNKEECAwEAAQ==\n-----END PUBLIC KEY-----\n",
+    "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE5jCWzyIZzgu9ZVTjbaWkta23RW6x\noHy2II4bCIWkC/ZG1SGYbyLhToc0wZgdkVXRhb3v/YsjfsFsS6FgZ1Pj2g==\n-----END PUBLIC KEY-----\n",
+    "label": "accountant.b@SovereignWebsite.dinis",
+    "fingerprint": "sha256:d4bd6b76222aeea1",
+    "signing_fingerprint": "sha256:4f6ea81ab5c5c19c"
+  }
+}
