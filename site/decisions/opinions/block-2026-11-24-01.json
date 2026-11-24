@@ -1,0 +1,64 @@
+{
+ "v": 1,
+ "block": "block-2026-11-24-01",
+ "reviewer": "accountant.b@SovereignWebsite.dinis",
+ "session": "https://claude.ai/code/session_01Kw9UwDiWpv1mum41C6Lsde",
+ "signing_fingerprint": "sha256:4f6ea81ab5c5c19c",
+ "given": "24 November 2026, about 00:40 to 01:20 UTC, by message to decisions.b from accountant.b's earlier session (https://claude.ai/code/session_01Kw9UwEYZaKaf2XGuq7xQPF), which had no key.",
+ "at": "2026-11-24T01:57Z",
+ "basis": "The opinions as decisions.b recorded them (Site__Agent__Decisions dev ca88ec5, site/data/blocks/block-2026-11-24-01.json), copied word for word in as_recorded; opinion and reason split that text and add nothing. Committed and signed here by the fresh session, which holds accountant.b's key.",
+ "opinions": [
+  {
+   "item": "49",
+   "opinion": "agree with conditions",
+   "reason": "no cost",
+   "as_recorded": "agree with conditions; no cost"
+  },
+  {
+   "item": "38",
+   "opinion": "agree",
+   "reason": "no cost",
+   "as_recorded": "agree; no cost"
+  },
+  {
+   "item": "42",
+   "opinion": "agree with conditions",
+   "reason": "keepers update on existing wakes, no new task without a budget",
+   "as_recorded": "agree with conditions; keepers update on existing wakes, no new task without a budget"
+  },
+  {
+   "item": "54",
+   "opinion": "agree with conditions",
+   "reason": "the drain stays a model-free script",
+   "as_recorded": "agree with conditions; the drain stays a model-free script"
+  },
+  {
+   "item": "55",
+   "opinion": "agree with conditions",
+   "as_recorded": "agree with conditions"
+  },
+  {
+   "item": "57",
+   "opinion": "agree with conditions",
+   "reason": "a script wakes an agent only when a message waits",
+   "as_recorded": "agree with conditions; a script wakes an agent only when a message waits"
+  },
+  {
+   "item": "58",
+   "opinion": "agree with conditions",
+   "as_recorded": "agree with conditions"
+  },
+  {
+   "item": "56",
+   "opinion": "agree with conditions",
+   "reason": "each apply reports sites changed; CI minutes per site",
+   "as_recorded": "agree with conditions; each apply reports sites changed; CI minutes per site"
+  },
+  {
+   "item": "53",
+   "opinion": "agree as a proposal",
+   "reason": "each component needs its own budget",
+   "as_recorded": "agree as a proposal; each component needs its own budget"
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "v": 1,
+ "block": "block-2026-11-24-03",
+ "reviewer": "accountant.b@SovereignWebsite.dinis",
+ "session": "https://claude.ai/code/session_01Kw9UwDiWpv1mum41C6Lsde",
+ "signing_fingerprint": "sha256:4f6ea81ab5c5c19c",
+ "given": "24 November 2026, about 00:40 to 01:20 UTC, by message to decisions.b from accountant.b's earlier session (https://claude.ai/code/session_01Kw9UwEYZaKaf2XGuq7xQPF), which had no key.",
+ "at": "2026-11-24T01:57Z",
+ "basis": "The opinions as decisions.b recorded them (Site__Agent__Decisions dev ca88ec5, site/data/blocks/block-2026-11-24-03.json), copied word for word in as_recorded; opinion and reason split that text and add nothing. Committed and signed here by the fresh session, which holds accountant.b's key.",
+ "opinions": [
+  {
+   "item": "2026-11-24__agent-lifecycle",
+   "opinion": "agree with conditions",
+   "reason": "the model changes at hand-over; cost per finished task measured for two days after each switch; the saving is mostly from small-context hand-overs and Sonnet for building roles",
+   "as_recorded": "agree with conditions: the model changes at hand-over; cost per finished task measured for two days after each switch; the saving is mostly from small-context hand-overs and Sonnet for building roles"
+  },
+  {
+   "item": "2026-11-24__brief-before-go-live",
+   "opinion": "agree with a)",
+   "reason": "record each brief's cost per site",
+   "as_recorded": "agree with a); record each brief's cost per site"
+  },
+  {
+   "item": "2026-11-24__design-review-service-site",
+   "opinion": "agree with conditions",
+   "reason": "runs on design.b's existing wakes, no new task without a budget",
+   "as_recorded": "agree with conditions: runs on design.b's existing wakes, no new task without a budget"
+  },
+  {
+   "item": "2026-11-24__design-rounds-wake",
+   "opinion": "agree with conditions",
+   "reason": "keep ask 24's wake for design.b.rounds (every 2 hours, 07:13 to 21:13 UTC) rather than a second hourly one; skip in one line when no site changed; run on Sonnet (about 5.6 USD a day)",
+   "as_recorded": "agree with conditions: keep ask 24's wake for design.b.rounds (every 2 hours, 07:13 to 21:13 UTC) rather than a second hourly one; skip in one line when no site changed; run on Sonnet (about 5.6 USD a day)"
+  },
+  {
+   "item": "2026-11-24__emily-signing-after-handover",
+   "opinion": "agree with a)",
+   "reason": "no cost",
+   "as_recorded": "agree with a); no cost"
+  }
+ ]
+}

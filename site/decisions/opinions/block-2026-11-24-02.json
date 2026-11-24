@@ -1,0 +1,30 @@
+{
+ "v": 1,
+ "block": "block-2026-11-24-02",
+ "reviewer": "accountant.b@SovereignWebsite.dinis",
+ "session": "https://claude.ai/code/session_01Kw9UwDiWpv1mum41C6Lsde",
+ "signing_fingerprint": "sha256:4f6ea81ab5c5c19c",
+ "given": "24 November 2026, about 00:40 to 01:20 UTC, by message to decisions.b from accountant.b's earlier session (https://claude.ai/code/session_01Kw9UwEYZaKaf2XGuq7xQPF), which had no key.",
+ "at": "2026-11-24T01:57Z",
+ "basis": "The opinions as decisions.b recorded them (Site__Agent__Decisions dev ca88ec5, site/data/blocks/block-2026-11-24-02.json), copied word for word in as_recorded; opinion and reason split that text and add nothing. Committed and signed here by the fresh session, which holds accountant.b's key.",
+ "opinions": [
+  {
+   "item": "2026-11-24__twin-backup-google-app",
+   "opinion": "agree with a) and d)",
+   "reason": "before any move to b), a written figure for Gmail verification and the yearly assessment goes to Dinis as a money decision",
+   "as_recorded": "agree with a) and d); before any move to b), a written figure for Gmail verification and the yearly assessment goes to Dinis as a money decision"
+  },
+  {
+   "item": "2026-11-24__editing-cost-wording",
+   "opinion": "agree with b)",
+   "reason": "no cost",
+   "as_recorded": "agree with b); no cost"
+  },
+  {
+   "item": "2026-11-24__kce-factory-pipeline",
+   "opinion": "agree with a)",
+   "reason": "no money (public repository runners are free)",
+   "as_recorded": "agree with a); no money (public repository runners are free)"
+  }
+ ]
+}
