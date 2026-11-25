@@ -1,0 +1,20 @@
+{
+ "name": "cl-6.accountant",
+ "signs_as": "cl-6.accountant@dinis",
+ "owner": "dinis-cruz",
+ "account": "account-f",
+ "role": "Accountant twin on account 6's decision panel: costs each block's items and signs an opinion; keeps the account's session ledger",
+ "session": "https://claude.ai/code/session_016CrbJJ7NP5eaJypGAHgdGi",
+ "started_by": "cl-6.maestro@dinis, at Dinis's word on 25 Nov 2026",
+ "key": {
+  "signing_fingerprint": "sha256:310df586e55fbd1a",
+  "fingerprint": "sha256:45f55134a30ad25c",
+  "published": "/keys/cl-6.accountant.json"
+ },
+ "state": "working",
+ "focus": "first ledger done; waiting for cl-6.decisions to put a block to the panel",
+ "waiting_on": [{"what": "a block to cost and give an opinion on", "who": "cl-6.decisions@dinis", "since": "2026-11-25T23:18Z"}],
+ "wakes": "none; answers messages",
+ "updated": "2026-11-25T23:18Z",
+ "read": {"role": "role.md", "now": "now.md", "restart": "restart.md", "ledger": "ledger.json", "ledger_summary": "ledger.md", "opinions": "opinions/"}
+}
