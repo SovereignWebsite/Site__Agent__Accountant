@@ -1,0 +1,17 @@
+{
+  "agent": "cl-6.accountant@dinis",
+  "session": "https://claude.ai/code/session_016CrbJJ7NP5eaJypGAHgdGi",
+  "status": "active",
+  "fingerprint": "sha256:45f55134a30ad25c",
+  "signing_fingerprint": "sha256:310df586e55fbd1a",
+  "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJ5IxOCWocT5q+bfXLLI43FciTkfejsxzyRHu+GH57mSTKFQIz5Q6dGy2BUzFQmu+d33TVy/HhR/4dEFU8g0nWU=",
+  "bundle": {
+    "v": 1,
+    "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAqMLlEvUYIOdV+kWyjxQI\nnrnvWPoWntLIffp5Yn8bsoprBExYiKD9eW5vjKIrGXJXid/yp+zongUfsrfXQmQS\n/MOLR7i1rxAQ2vb3FQPh3ydtWuvxYPZ7eakQ+Tnvzk8N+xISmMrd9sD4bhH0JWF7\nX2CE01+q7aQqgfPKRq7kaiUetklBGPpoY4u1zaMnScBjQGJSo3x9mGKHAHlnY15C\n/CsFzEb91PGQj97Rp5GOX8P3MYZFfm8gohqTSZBQqrviXgmab8iKwNBn1JME2XDA\negUr0ElvJlqa25GU5wJMLCByMWMPj5G5fJHo5JhWM3cAgWLJVjdXr++R4gCe1NPH\nzbKydqyGtdfYFAW6dDtCUq7G5iG719ZDCDcBo1X0B1f2Y+qSFGdkiv6r8ESAmXMV\nHPif8FtS2urMss3/6W4aP0ryD82CMQ9N6XXP2vn1AqjWGHU+2I0tGoiKi7i7+aPR\neQad2XSmXahty1GZDaPi6y+oLVXepJZhgmCOmuIVo+9DddFfv9HOQE3tZzawTBld\nx0y2Dvr+tCM3Bpu5COu4dr54grEYGwfte4u5maytFswW15ZUGRg4MlWNKWvCp2l2\ndShBDWoBFSuv5rmismprUCTBm0RAPPhO2ny26mjCnwEOop+5LD+SWAYNuuDFsxsO\ndVd9YPmG9IL8PAjsRkf4PHECAwEAAQ==\n-----END PUBLIC KEY-----\n",
+    "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEnkjE4JahxPmr5t9cssjjcVyJOR96\nOzHPJEe74YfnuZJMoVAjPlDp0bLYFTMVCa753fdNXL8eFH/h0QVTyDSdZQ==\n-----END PUBLIC KEY-----\n",
+    "label": "cl-6-accountant-sovereignwebsite",
+    "fingerprint": "sha256:45f55134a30ad25c",
+    "signing_fingerprint": "sha256:310df586e55fbd1a"
+  },
+  "how": "Made by the agent in its own session with sgit pki keygen (tools/setup-signing.sh). Only the public half is here. A session key: it ends with its session."
+}
