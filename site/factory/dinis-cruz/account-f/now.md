@@ -1,7 +1,4 @@
-# now (2026-11-26T13:45Z)
+# now (2026-11-26T16:54Z)
 
-- Key published (commit ea3e02d), signing fingerprint sha256:310df586e55fbd1a.
-- Ledger refreshed at 2026-11-26T13:45Z: 93 sessions, 77 report a cost. Analysis of where the tokens and money go: analysis.md (asked for through cl-6.maestro, quoting Dinis on the 5-hour limit).
-- Estimate for the 41 PrompTugal sessions: estimates/2026-11-26-promptugal-sessions.md.
-- Sessions past 50% of context: see analysis.md section 6; cl-6.maestro itself is at 74%.
-- Cost-reduction ledger (asked 26 Nov 15:50Z): method in reductions/README.md; figures held privately because this repo and site are public; non-public home asked of the conductor. Open: no block yet from cl-6.decisions, so no opinions.
+- Being replaced at Dinis's word (context past 50%). Hand-over: sessions/2026-11-26/handover.md. New session: read it, role.md and restart.md first.
+- Open: cost-reduction ledger (private figures held only in the old session until sent by message), events log M1 to M16 (source: cl-6.maestro's cost-events.json), daily refresh, network capture measurement, no block yet from cl-6.decisions.

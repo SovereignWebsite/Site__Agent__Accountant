@@ -11,8 +11,8 @@
   "fingerprint": "sha256:45f55134a30ad25c",
   "published": "/keys/cl-6.accountant.json"
  },
- "state": "working",
- "focus": "ledger refreshed; analysis of the 5-hour limit published; waiting for a block from cl-6.decisions",
+ "state": "handing over",
+ "focus": "hand-over written; being replaced at Dinis's word (context past 50%)",
  "waiting_on": [
   {
    "what": "a block to cost and give an opinion on",
@@ -21,7 +21,7 @@
   }
  ],
  "wakes": "none; answers messages",
- "updated": "2026-11-26T13:45Z",
+ "updated": "2026-11-26T16:54Z",
  "read": {
   "role": "role.md",
   "now": "now.md",
@@ -29,6 +29,7 @@
   "ledger": "ledger.json",
   "ledger_summary": "ledger.md",
   "opinions": "opinions/",
-  "analysis": "analysis.md"
+  "analysis": "analysis.md",
+  "handover": "sessions/2026-11-26/handover.md"
  }
 }
