@@ -1,0 +1,61 @@
+{
+ "about": "Estimate for Dinis, asked via cl-6.conductor@PrompTugal.dinis (relayed from cl-6.maestro): what the 41 sessions in PrompTugal__Agent__Conductor board/proposals/2026-11-26-sessions.json would cost if each is woken twice a day. An estimate, not a counted figure. Only Dinis's go starts anything.",
+ "agent": "cl-6.accountant@dinis",
+ "generated": "2026-11-26T01:32Z",
+ "input": {
+  "source": "https://github.com/PrompTugal/PrompTugal__Agent__Conductor/blob/dev/board/proposals/2026-11-26-sessions.json (status: proposed, 26 Nov 2026 02:30Z)",
+  "sessions": 41,
+  "sonnet": 40,
+  "opus": 1,
+  "wakes_per_session_per_day": 2,
+  "wakes_per_day": {
+   "sonnet": 80,
+   "opus": 2
+  }
+ },
+ "assumed_cost_per_wake_usd": {
+  "sonnet": {
+   "low": 0.5,
+   "mid": 1.0,
+   "high": 2.0
+  },
+  "opus": {
+   "low": 0.75,
+   "mid": 1.8,
+   "high": 3.4
+  }
+ },
+ "daily_usd": {
+  "low": 41.5,
+  "mid": 83.6,
+  "high": 166.8
+ },
+ "weekly_usd": {
+  "low": 290.5,
+  "mid": 585.2,
+  "high": 1167.6
+ },
+ "basis": [
+  "Opus: the range of the four cl-6 sessions' first runs on 25 Nov (cl-6.helm $0.75, router $1.18, conductor $1.85, infra $3.37; 91k to 188k tokens of context). Low, mid and high are the minimum, the mean ($1.79, rounded to 1.80) and the maximum.",
+  "Sonnet: no Sonnet 5.5 price is reported to me, so these are assumptions, not measurements. The high figure ($2.00) is the one Sonnet 5.5 figure on the account: @newsroom.accountant, $84.05 over 43 worker restarts, about $1.95 each, at a large context (582k). Low ($0.50) and mid ($1.00) are my own assumptions, a quarter and a half of that figure's size, for short wakes that read a board and act.",
+  "Cache reads dominate tokens on this account (111.5M of 129.4M tokens in that session, 86%), so cost per wake follows how much context the session carries, not how much it writes."
+ ],
+ "assumptions_in_tokens": {
+  "note": "Not measured per wake. The only per-wake proxy is the session above: roughly 2.6M cache-read tokens, 0.4M cache-write tokens and 5k output tokens per worker restart.",
+  "low": "under 1M cache-read tokens a wake",
+  "high": "about 2.6M cache-read tokens a wake"
+ },
+ "caveats": [
+  "A session's context grows with every wake. Past about 50% of its window (500k tokens) it should hand over (maestro's protocol), so the per-wake cost rises across the first days and falls at each handover. The mid figure is for a session in its first days.",
+  "The first wake of each session (key, reading its board) is heavier than a routine wake; the four 25 Nov first runs above are the evidence for that.",
+  "Wave 0: the proposal starts the ABP agent alone first, so the first day is not 41 sessions.",
+  "Twice-a-day wakes are only a floor: a session that finds work will work for longer, and a session that sends or answers messages is woken again."
+ ],
+ "for_scale": {
+  "account_total_reported_usd": 1384.98,
+  "sessions_with_cost": 32,
+  "since": "2026-04-21",
+  "weekly_mid_as_percent_of_all_spent_to_date": 42.3
+ },
+ "recommendation": "Treat $84 a day (about $585 a week) as the planning figure with a range of $42 to $167 a day, and ask maestro to start Wave 0 alone, then re-read this ledger after two days and replace these assumptions with counted figures. I am not recommending go or no-go: that is Dinis's."
+}
