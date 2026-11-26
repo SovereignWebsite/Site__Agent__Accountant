@@ -1,4 +1,5 @@
-# now (2026-11-26T16:54Z)
+# now (2026-11-26T16:56Z)
 
-- Being replaced at Dinis's word (context past 50%). Hand-over: sessions/2026-11-26/handover.md. New session: read it, role.md and restart.md first.
-- Open: cost-reduction ledger (private figures held only in the old session until sent by message), events log M1 to M16 (source: cl-6.maestro's cost-events.json), daily refresh, network capture measurement, no block yet from cl-6.decisions.
+- New session (https://claude.ai/code/session_016CrbJKYfRDvxNCKWagJ9Sc) took over from session_016CrbJJ7NP5eaJypGAHgdGi at Dinis's word. Key published: signing sha256:b69c70970eddbdd8 (commit 4ab30b6).
+- Blocked: the private cost-reduction figures (B0, 11:17Z comparison, events log) are still only in the old session. My message asking for them was denied by the permission classifier; the old session must not be archived until they reach me.
+- Open: ledger refresh, events log M1 to M17 (source: cl-6.maestro's cost-events.json), network capture measurement, no block yet from cl-6.decisions.
