@@ -1,17 +1,23 @@
 {
   "agent": "cl-6.accountant@dinis",
-  "session": "https://claude.ai/code/session_016CrbJJ7NP5eaJypGAHgdGi",
+  "session": "https://claude.ai/code/session_016CrbJKYfRDvxNCKWagJ9Sc",
   "status": "active",
-  "fingerprint": "sha256:45f55134a30ad25c",
-  "signing_fingerprint": "sha256:310df586e55fbd1a",
-  "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJ5IxOCWocT5q+bfXLLI43FciTkfejsxzyRHu+GH57mSTKFQIz5Q6dGy2BUzFQmu+d33TVy/HhR/4dEFU8g0nWU=",
+  "fingerprint": "sha256:fd86931aaae423fd",
+  "signing_fingerprint": "sha256:b69c70970eddbdd8",
+  "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBHSJGkqu3IG06mb2DFgLBUnhsW0F602xyRQnAyoRsQHZfPrhjS8nhoPcG4eq6ThU+O+x3lqljmghOVyyMVanwk0=",
   "bundle": {
     "v": 1,
-    "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAqMLlEvUYIOdV+kWyjxQI\nnrnvWPoWntLIffp5Yn8bsoprBExYiKD9eW5vjKIrGXJXid/yp+zongUfsrfXQmQS\n/MOLR7i1rxAQ2vb3FQPh3ydtWuvxYPZ7eakQ+Tnvzk8N+xISmMrd9sD4bhH0JWF7\nX2CE01+q7aQqgfPKRq7kaiUetklBGPpoY4u1zaMnScBjQGJSo3x9mGKHAHlnY15C\n/CsFzEb91PGQj97Rp5GOX8P3MYZFfm8gohqTSZBQqrviXgmab8iKwNBn1JME2XDA\negUr0ElvJlqa25GU5wJMLCByMWMPj5G5fJHo5JhWM3cAgWLJVjdXr++R4gCe1NPH\nzbKydqyGtdfYFAW6dDtCUq7G5iG719ZDCDcBo1X0B1f2Y+qSFGdkiv6r8ESAmXMV\nHPif8FtS2urMss3/6W4aP0ryD82CMQ9N6XXP2vn1AqjWGHU+2I0tGoiKi7i7+aPR\neQad2XSmXahty1GZDaPi6y+oLVXepJZhgmCOmuIVo+9DddFfv9HOQE3tZzawTBld\nx0y2Dvr+tCM3Bpu5COu4dr54grEYGwfte4u5maytFswW15ZUGRg4MlWNKWvCp2l2\ndShBDWoBFSuv5rmismprUCTBm0RAPPhO2ny26mjCnwEOop+5LD+SWAYNuuDFsxsO\ndVd9YPmG9IL8PAjsRkf4PHECAwEAAQ==\n-----END PUBLIC KEY-----\n",
-    "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEnkjE4JahxPmr5t9cssjjcVyJOR96\nOzHPJEe74YfnuZJMoVAjPlDp0bLYFTMVCa753fdNXL8eFH/h0QVTyDSdZQ==\n-----END PUBLIC KEY-----\n",
+    "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA/B+/SDCpE+XtY2JBBeEM\nI1zic9suf5fFM9dEOnRv4tX8cSb41SWOeEY/66gru94QVw+dMHS8HL1sjN8ktbLp\nrLVsZnWLkTgc4T/SFfNrInNDvWQm/O8tcTYUfpEd+4tN37J8bPdq3lxhAphLjmhM\nams8XEtNFvKW6/+fMH9kM1WaBfYCuAsynBUpwt4zKqqDPAqRbug/BTXahcZVpwfY\n/nOjSNHfv3vM3Y+8JspZA2fCcYtjkZ9tKVqvFoS3nEQHPYMenp1+Iju7GfvKUCrG\na9lYviRf3FXCH0O1sHk098AKkQAvXaGCiXgX8RAbwgLgml8fEHBSDKiUOYab7gUc\nOYERPDyByzlLxqBFVlQ6AKKYlX8iyy25RgV+ZwuTxpPWf++Lu1s8AHU8lhqkbG5H\nYEYMYNhUT273JDDQe9l+iZgwNYVCHYYMCxrs5l5Tc+rMbyOSI6Ud3jL91Fsmuj/B\nTjGav2JvBG+3CJHnHBVKC5FRgshGzVuOCnhlYObdhaAGwrnxxs/cYg3j/uuXrobO\n03GiEWro2+Mm5WKXbtOgqvjiRvM8tdTf+RvLhkqpRQka+jmNVRCWM2hFgfs3Ch5I\n4IlfO+mub90uU/UZvVwYcPkmXYPIlF2bAM6h7HmpKDMDGmxJeR5beuAGh9NuFADB\nrOAHjEQt6yiptcygqe8ns4cCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+    "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEdIkaSq7cgbTqZvYMWAsFSeGxbQXr\nTbHJFCcDKhGxAdl8+uGNLyeGg9wbh6rpOFT477HeWqWOaCE5XLIxVqfCTQ==\n-----END PUBLIC KEY-----\n",
     "label": "cl-6-accountant-sovereignwebsite",
-    "fingerprint": "sha256:45f55134a30ad25c",
-    "signing_fingerprint": "sha256:310df586e55fbd1a"
+    "fingerprint": "sha256:fd86931aaae423fd",
+    "signing_fingerprint": "sha256:b69c70970eddbdd8"
   },
-  "how": "Made by the agent in its own session with sgit pki keygen (tools/setup-signing.sh). Only the public half is here. A session key: it ends with its session."
+  "supersedes": {
+    "session": "https://claude.ai/code/session_016CrbJJ7NP5eaJypGAHgdGi",
+    "signing_fingerprint": "sha256:310df586e55fbd1a",
+    "fingerprint": "sha256:45f55134a30ad25c",
+    "note": "previous session key; kept in git history"
+  },
+  "how": "Made by the agent in its own session with openssl (P-256 signing, RSA-4096 encryption). Only the public half is here. A session key: it ends with its session."
 }
