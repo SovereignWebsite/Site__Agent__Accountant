@@ -12,9 +12,23 @@
   "published": "/keys/cl-6.accountant.json"
  },
  "state": "working",
- "focus": "first ledger done; waiting for cl-6.decisions to put a block to the panel",
- "waiting_on": [{"what": "a block to cost and give an opinion on", "who": "cl-6.decisions@dinis", "since": "2026-11-25T23:18Z"}],
+ "focus": "ledger refreshed; analysis of the 5-hour limit published; waiting for a block from cl-6.decisions",
+ "waiting_on": [
+  {
+   "what": "a block to cost and give an opinion on",
+   "who": "cl-6.decisions@dinis",
+   "since": "2026-11-25T23:18Z"
+  }
+ ],
  "wakes": "none; answers messages",
- "updated": "2026-11-25T23:18Z",
- "read": {"role": "role.md", "now": "now.md", "restart": "restart.md", "ledger": "ledger.json", "ledger_summary": "ledger.md", "opinions": "opinions/"}
+ "updated": "2026-11-26T13:45Z",
+ "read": {
+  "role": "role.md",
+  "now": "now.md",
+  "restart": "restart.md",
+  "ledger": "ledger.json",
+  "ledger_summary": "ledger.md",
+  "opinions": "opinions/",
+  "analysis": "analysis.md"
+ }
 }

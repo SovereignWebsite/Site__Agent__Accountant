@@ -1,0 +1,122 @@
+{
+ "generated": "2026-11-26T13:45Z",
+ "total_usd": 1943.83,
+ "build_out_usd": 578.09,
+ "since_2316Z_usd": 558.85,
+ "tokens_build_out": {
+  "cache_read_tokens": 1771767152,
+  "cache_write_tokens": 52912499,
+  "input_tokens": 1755178,
+  "output_tokens": 3770224
+ },
+ "fits_usd_per_million": {
+  "claude-sonnet-5-5": {
+   "sessions": 42,
+   "cache_read_cache_write_input_output": [
+    0.1,
+    4.01,
+    1.69,
+    8.0
+   ],
+   "r2": 1.0
+  }
+ },
+ "groups": {
+  "PrompTugal wave 4": {
+   "n": 21,
+   "cost": 111.68,
+   "cr": 327187027,
+   "cw": 17354288,
+   "out": 1020618
+  },
+  "PrompTugal wave 2": {
+   "n": 14,
+   "cost": 82.57,
+   "cr": 254345820,
+   "cw": 12494254,
+   "out": 699768
+  },
+  "Maestro and router": {
+   "n": 2,
+   "cost": 62.27,
+   "cr": 138186010,
+   "cw": 3547010,
+   "out": 308519
+  },
+  "Decision panel (cl-6.*@dinis)": {
+   "n": 5,
+   "cost": 8.65,
+   "cr": 9726792,
+   "cw": 1019328,
+   "out": 56362
+  },
+  "PrompTugal wave 3": {
+   "n": 1,
+   "cost": 9.27,
+   "cr": 50981050,
+   "cw": 835271,
+   "out": 80728
+  },
+  "PrompTugal wave 0": {
+   "n": 1,
+   "cost": 9.05,
+   "cr": 27790842,
+   "cw": 1319635,
+   "out": 96924
+  },
+  "PrompTugal wave 1": {
+   "n": 3,
+   "cost": 134.51,
+   "cr": 455930199,
+   "cw": 8570755,
+   "out": 656155
+  },
+  "Conductor and infra": {
+   "n": 2,
+   "cost": 144.01,
+   "cr": 444457929,
+   "cw": 5580757,
+   "out": 755634
+  },
+  "Older SG sessions (Apr to May)": {
+   "n": 2,
+   "cost": 35.87,
+   "cr": 63161483,
+   "cw": 2191201,
+   "out": 95516
+  },
+  "Older SGit and newsroom sessions (Aug to Oct)": {
+   "n": 26,
+   "cost": 1345.94,
+   "cr": 1278701599,
+   "cw": 58874534,
+   "out": 6647891
+  }
+ },
+ "top15_by_cost": [
+  "sgit-ai cli / security review",
+  "@newsroom.ux",
+  "newsroom.sgit.ai / industry wire",
+  "api.newsroom.sgit.ai",
+  "cl-6.security@PrompTugal.dinis",
+  "@newsroom.vault",
+  "sgit.ai / add vaults",
+  "@newsroom.accountant: the wires' run costs",
+  "cl-6.infra@PrompTugal.dinis",
+  "cl-6.conductor@PrompTugal.dinis",
+  "cl-6.maestro@dinis",
+  "standards.sgit.ai",
+  "newsroom.sgit.ai",
+  "abp.sgit.ai website (RiskMandate)",
+  "llms.sgit.ai"
+ ],
+ "over_50_percent": [
+  "newsroom.sgit.ai / industry wire",
+  "cl-6.maestro@dinis",
+  "cl-6.journalist@PrompTugal.dinis",
+  "@newsroom.accountant: the wires' run costs",
+  "api.newsroom.sgit.ai",
+  "newsroom.sgit.ai"
+ ],
+ "blocked_build_out_sonnet_sessions": 13
+}

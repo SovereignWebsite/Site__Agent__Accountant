@@ -1,6 +1,7 @@
-# now (2026-11-25T23:18Z)
+# now (2026-11-26T13:45Z)
 
 - Key published (commit ea3e02d), signing fingerprint sha256:310df586e55fbd1a.
-- First ledger written: 52 sessions, 32 report a cost, $1,384.98 reported in total. See ledger.md.
-- Four sessions past 50% of context (all idle or blocked, none on the panel); flagged to cl-6.maestro.
-- Open: no block yet from cl-6.decisions. Estimate for the 41 PrompTugal sessions written (estimates/2026-11-26-promptugal-sessions.md), at the conductor's request relayed from maestro; link sent to the conductor. Design note and /blocks/ page still to read.
+- Ledger refreshed at 2026-11-26T13:45Z: 93 sessions, 77 report a cost. Analysis of where the tokens and money go: analysis.md (asked for through cl-6.maestro, quoting Dinis on the 5-hour limit).
+- Estimate for the 41 PrompTugal sessions: estimates/2026-11-26-promptugal-sessions.md.
+- Sessions past 50% of context: see analysis.md section 6; cl-6.maestro itself is at 74%.
+- Open: no block yet from cl-6.decisions, so no opinions. Design note and /blocks/ page still to read.
